@@ -1,0 +1,19 @@
+div.containerOwner {
+  background-color: #ff944d;
+  border: 10px solid;
+  border-color: #ff944d;
+  border-radius: 10px;
+}
+
+h1.HeadingOwners {
+  text-align: center;
+}
+
+p.Des {
+  position: relative;
+  left: 2%;
+}
+
+p {
+  font-size: 1.1em;
+}

@@ -1,0 +1,14 @@
+div.containerTenant {
+  background-color: #ff944d;
+  border: 10px solid;
+  border-color: #ff944d;
+  border-radius: 10px;
+}
+h1.HeadingTenants {
+  text-align: center;
+}
+
+p.Des {
+  position: relative;
+  left: 3%;
+}

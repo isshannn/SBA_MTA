@@ -1,0 +1,33 @@
+div.ButtonsHomepage, div.Arrow{
+  margin: auto;
+  padding: 1.2em;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  border-radius: 25px;
+  border: 5px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1.3em;
+  font-weight: 500;
+  font-family: inherit;
+  /* background-color: #323131; */
+  cursor: pointer;
+  transition: border-color 1.75s;
+}
+button:hover {
+  border-color: #000033;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 25px auto -webkit-focus-ring-color;
+}
+
+button.Owners {
+  margin-right: 20px;
+}

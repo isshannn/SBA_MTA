@@ -1,0 +1,37 @@
+div.containerIcons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000033;
+}
+
+p.Line{
+  text-align: center;
+  margin-bottom : 2%;
+  font-size: 1.7em;
+  color: white;
+}
+
+line.DushyaNumber{
+  font-weight: 700;
+  color: white;
+}
+
+div.Icons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 1%;
+}
+
+div.PhoneMadi{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+
+div.container{
+  background-color: #000033;
+}
